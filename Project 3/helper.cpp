@@ -1,10 +1,12 @@
-//
-//  helper.cpp
-//  SDLProject
-//
-//  Created by Sebastián Romero Cruz on 5/31/22.
-//  Copyright © 2022 ctg. All rights reserved.
-//
+/**
+* Author: Arush Kumra
+* Assignment: Lunar Lander
+* Date due: 2024-07-13, 11:59pm
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
 #define GL_SILENCE_DEPRECATION
 #include <iostream>
 
