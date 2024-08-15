@@ -1,0 +1,26 @@
+﻿  Defeat.cpp
+C:\Users\Arush\Desktop\Final project\Run The Gauntlet\Defeat.cpp(104,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Effects.cpp
+  Entity.cpp
+  helper.cpp
+  LevelA.cpp
+C:\Users\Arush\Desktop\Final project\Run The Gauntlet\LevelA.cpp(102,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LevelB.cpp
+C:\Users\Arush\Desktop\Final project\Run The Gauntlet\LevelB.cpp(113,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LevelC.cpp
+C:\Users\Arush\Desktop\Final project\Run The Gauntlet\LevelC.cpp(103,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Map.cpp
+C:\Users\Arush\Desktop\Final project\Run The Gauntlet\Map.cpp(94,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Arush\Desktop\Final project\Run The Gauntlet\Map.cpp(95,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+C:\Users\Arush\Desktop\Final project\Run The Gauntlet\Menu.cpp(104,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Scene.cpp
+  ShaderProgram.cpp
+  sprite.cpp
+  Utility.cpp
+C:\Users\Arush\Desktop\Final project\Run The Gauntlet\Utility.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+  Victory.cpp
+C:\Users\Arush\Desktop\Final project\Run The Gauntlet\Victory.cpp(104,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  SDLProject.vcxproj -> C:\Users\Arush\Desktop\Final project\Run The Gauntlet\Debug\SDLProject.exe
